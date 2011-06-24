@@ -1,11 +1,11 @@
 .. _articles:
 
+Paver に関する記事
+==================
+
 ..
     Articles about Paver
     ====================
-
-Paver についての記事
-====================
 
 ..
     * `Converting from Make to Paver`_ - Doug Hellman's look at how he moved from Make to Paver for Python Module of the Week.
@@ -14,9 +14,9 @@ Paver についての記事
     * `Release 0.7 announcement`_
     * `Paver 1.0a1 announcement`_ (the ill-fated release that was recalled)
 
-* `Converting from Make to Paver`_ - Python Module of the Week をどのように Paver で構築するように移行したかについて Doug Hellman の見解
-* `Writing Technical Documentation with Sphinx, Paver and Cog`_ - Python Module of the Week 連載の作成方法についての Doug Hellmann の突っ込んだ記事
-* プロジェクトについての `Initial announcement`_ と背景
+* `Converting from Make to Paver`_ - Doug Hellmann が Python Module of the Week というブログの連載を make コマンドから Paver へ移行したときの考察
+* `Writing Technical Documentation with Sphinx, Paver and Cog`_ - Doug Hellmann が Python Module of the Week というブログの連載を行うにあたっての突っ込んだ記事
+* このプロジェクトについての `Initial announcement`_ と背景
 * `Release 0.7 announcement`_
 * `Paver 1.0a1 announcement`_ (不具合が発生した不幸なリリース)
 
