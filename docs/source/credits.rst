@@ -1,15 +1,15 @@
 .. _credits:
 
-..
-    Credits
-    =======
-
 クレジット
 ==========
 
 ..
+    Credits
+    =======
+
+..
     * The Paver project has gotten patches from Juergen Hermann, Marc Sibson,
-      Greg Thornton, Michael Greene, Krys Wilken and Bryan Forbes.
+      Greg Thornton, Michael Greene, Krys Wilken, Bryan Forbes and Ryan Wilcox.
     * Ned Batchelder's "cog" package is included for handling inclusion of files
       into the docs.
     * Ian Bicking provided a lot of great input prior to Paver's initial release
@@ -27,11 +27,11 @@
       deserves credit for making and steering a language that is so flexible 
       and clean for such a wide variety of tasks.
 
-* Paver プロジェクトは Juergen Hermann, Marc Sibson, Greg Thornton, Michael Greene, Krys Wilken と Bryan Forbes からパッチを頂きました。
-* Ned Batchelder の "cog" パッケージがドキュメント内に追加するファイルを扱うために含まれています。
-* Ian Bicking は Open Planning とその前のプロジェクトの両方で使用したコードを指摘して Paver の初期リリースに先立ち多くのアドバイスを頂きました。
-* Ian は paver.setuputils.find_package_data 関数のオリジナルの開発者でもあります。
-* Jason Orendorff は paver.path に基づいたオリジナルの path.py モジュールを開発してくれました。
-* Michael Foord の Mock モジュールはテストを支援するために含まれています。
-* Ian Bicking, Jim Fulton, Philip Eby と Georg Brandl は Paver 標準ライブラリを活用する様々なプロジェクトを指導しました。そういったプロジェクトなしでは Paver ユーザがこれほど多くの処理を行えませんでした。
-* Python プロジェクトの恩恵を受けていることは明らかではありますが、様々な用途のタスクに対して自由度が高く分かり易い言語を開発して指揮を取る Guido van Rossum は賞賛に値します。
+* Paver プロジェクトは、Juergen Hermann, Marc Sibson, Greg Thornton, Michael Greene, Krys Wilken, Bryan Forbes, Ryan Wilcox からパッチをもらいました。
+* Ned Batchelder が開発した "cog" パッケージは、ドキュメントへファイルを追加するのに使われています。
+* Ian Bicking は、Open Planning とその前のプロジェクトで使ってくれていて、Paver の初期リリースの前に多くのアドバイスをもらいました。
+* Ian は、paver.setuputils.find_package_data() 関数の開発者でもあります。
+* Jason Orendorff は、paver.path に基づく path.py モジュールを開発しました。
+* Michael Foord の Mock モジュールは、テストを支援するのに使っています。
+* Ian Bicking, Jim Fulton, Philip Eby と Georg Brandl は Paver 標準ライブラリを活用する様々なプロジェクトのリーダーを担いました。そういったプロジェクトのおかげで、Paver ユーザは多くの処理を行わずにすむという恩恵を受けています。
+* Python プロジェクトの恩恵を受けているのは言うまでもありませんが、様々な用途のタスクに対して、自由度が高く分かりやすい言語の開発リーダーである Guido van Rossum を賞賛を送ります。
